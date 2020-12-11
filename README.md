@@ -42,4 +42,4 @@ Most of all I ❤️ to Design things. The time Im not coding I'm surfing [Unspl
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunatastic&layout=compact&theme=merko&show_icons=true)
 
-<!-- ![counter](https://enz0y3e2nxtyn0a.m.pipedream.net) -->
+![counter](https://enz0y3e2nxtyn0a.m.pipedream.net) 
