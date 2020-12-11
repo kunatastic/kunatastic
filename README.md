@@ -2,19 +2,16 @@
 
 # Hello, People! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am Kunal Kumar Jha and I'm a 2nd Year undergraduate student at Vellore Institute of Technology, Chennai. I am interested in full stack developement and competitive programming.
+I am Kunal Kumar Jha and I'm a 2nd Year undergraduate student at Vellore Institute of Technology, Chennai. I am interested in full stack developement, competitive programming and Cyber Security.
 
-Most of all I ❤️ to Design things. The time Im not coding I'm surfing [Unsplash](https://unsplash.com/) or [Pexel]() for composites and Manupulating
+Most of all I ❤️ to Design things. The time I'm not coding, I'm surfing [Unsplash](https://unsplash.com/) or [Pexels](https://www.pexels.com/) for composites or Manupulating them😏.
 
-### 🤵 About Me
+## 🤵 About Me
 
-- 🤔 I use daily `.py`,` .php`, `.js`
-- 🌱 I’m currently exploring cryptography
-- 💬 Talk to me about movies, philosophy, history and coding
-- 😄 Pronouns: He/His/Him
-- 📝 I am the Chapter Lead of [OWASP Student Chapter at VIT Chennai](https://owaspvit.com/)
-- 👯 We can connect on [Discord](https://discord.gg/n7VxP6N) to discuss insane ideas
-- ⚡ Fun fact: I'm INTJ-T ☄️
+- 🌱 I’m read Tech Blogs Everyday.
+- 🤔 I code almost everyday.
+- 💬 I know Hindi and English.
+- ⚡ More than happy to discuss and work on Web Development
 
 ## 🔧 Technologies.
 
