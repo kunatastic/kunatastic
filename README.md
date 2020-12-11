@@ -1,5 +1,7 @@
 # Hello, People! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=kunatastic&theme=<THEME_NAME>" />
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kunatastic)
 
 ![counter](https://enz0y3e2nxtyn0a.m.pipedream.net)
+
+[![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=kunatastic)](https://github.com/anuraghazra/github-readme-stats)
