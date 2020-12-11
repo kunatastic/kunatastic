@@ -6,15 +6,7 @@ I am Kunal Kumar Jha and I'm a 2nd Year undergraduate student at Vellore Institu
 
 Most of all I ❤️ to Design things. The time Im not coding I'm surfing [Unsplash](https://unsplash.com/) or [Pexel]() for composites and Manupulating
 
-### 🤵 About Me
 
-- 🤔 I use daily `.py`,` .php`, `.js`
-- 🌱 I’m currently exploring cryptography
-- 💬 Talk to me about movies, philosophy, history and coding
-- 😄 Pronouns: He/His/Him
-- 📝 I am the Chapter Lead of [OWASP Student Chapter at VIT Chennai](https://owaspvit.com/)
-- 👯 We can connect on [Discord](https://discord.gg/n7VxP6N) to discuss insane ideas
-- ⚡ Fun fact: I'm INTJ-T ☄️
 
 ## 🔧 Technologies.
 
