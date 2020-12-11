@@ -6,7 +6,12 @@ I am Kunal Kumar Jha and I'm a 2nd Year undergraduate student at Vellore Institu
 
 Most of all I ❤️ to Design things. The time Im not coding I'm surfing [Unsplash](https://unsplash.com/) or [Pexel]() for composites and Manupulating
 
+## 🤵 About Me
 
+- 🌱 I’m read Tech Blogs Everyday.
+- 🤔 I code almost everyday.
+- 💬 I know Hindi and English.
+- ⚡ More than happy to discuss and work on Web Development
 
 ## 🔧 Technologies.
 
