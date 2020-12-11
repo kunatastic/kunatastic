@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kunatastic)
+[![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=kunatastic)](https://github.com/anuraghazra/github-readme-stats)
 
 ![counter](https://enz0y3e2nxtyn0a.m.pipedream.net)
-
-[![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=kunatastic)](https://github.com/anuraghazra/github-readme-stats)
