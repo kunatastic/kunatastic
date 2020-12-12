@@ -1,4 +1,4 @@
-<img src="./Kunatastic.jpg" alt="@Kunatastic">
+<img src="./Kunatastic.png" alt="@Kunatastic">
 
 # Hello, People! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -43,8 +43,14 @@ Most of all I ❤️ to Design things. The time I'm not coding, I'm surfing [Uns
 
 ## 📈 Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=kunatastic&theme=merko&show_icons=true" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunatastic&layout=compact&theme=merko&show_icons=true)
+<div align="center">
 
 ![counter](https://enz0y3e2nxtyn0a.m.pipedream.net)
+
+</div>
+<a href="#">
+<img align="center" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=kunatastic&theme=merko&show_icons=true" />
+</a>
+<a href="#">
+<img align="center" height="160px" width="400px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunatastic&layout=compact&theme=merko&show_icons=true"/>
+</a>
