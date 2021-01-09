@@ -48,8 +48,9 @@ Most of all I ❤️ to Design things. The time I'm not coding, I'm surfing [Uns
 ![counter](https://enz0y3e2nxtyn0a.m.pipedream.net)
 </div>
 <a href="https://github.com/kunatastic/kunatastic">
-<img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=kunatastic&theme=great-gatsby&show_icons=true" />
+<img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=kunatastic&theme=great-gatsby&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/kunatastic/kunatastic">
-<img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunatastic&layout=compact&theme=great-gatsby&show_icons=true"/>
+<img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunatastic&layout=compact&theme=great-gatsby&show_icons=true&langs_count=6"/>
 </a>
+
