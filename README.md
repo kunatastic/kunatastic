@@ -8,8 +8,8 @@ Most of all I ❤️ to Design things. The time I'm not coding, I'm surfing [Uns
 
 ## 🤵 About Me
 
-- 🌱 I read Tech Blogs almost everyday.
-- 🤔 I code almost everyday.
+- 🌱 I am learning Express, Node and other packages.
+- 🤔 Thinking about life without VScode.
 - 💬 I know Hindi and English.
 - ⚡ More than happy to discuss and work on Web Development
 
