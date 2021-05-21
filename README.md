@@ -1,5 +1,6 @@
 <img src="./kunatastic.png" alt="@Kunatastic">
 
+<br>
 # Hello, Peeps! <img src="./wave.gif" width="30px">
 
 I am Kunal Kumar Jha and I'm a 2nd Year undergraduate student at Vellore Institute of Technology, Chennai. I am interested in full stack developement, competitive programming and Graphical Designing.
