@@ -52,7 +52,9 @@ I am Kunal Kumar Jha and I'm a 2nd Year undergraduate student at Vellore Institu
 ## 📈 Statistics
 
 <div align="center">
+
 ![counter](https://enz0y3e2nxtyn0a.m.pipedream.net)
+
 </div>
 <div align="center">
 <a href="https://github.com/kunatastic/kunatastic">
