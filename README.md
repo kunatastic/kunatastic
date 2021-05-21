@@ -1,4 +1,4 @@
-<img src="./kunatastic.png" alt="@Kunatastic">
+<img src="./profile.png" alt="@Kunatastic">
 
 <br>
 
