@@ -1,17 +1,16 @@
-<img src="./Kunatastic.png" alt="@Kunatastic">
+<img src="./kunatastic.png" alt="@Kunatastic">
 
-# Hello, People! <img src="./wave.gif" width="30px">
+# Hello, Peeps! <img src="./wave.gif" width="30px">
 
-I am Kunal Kumar Jha and I'm a 2nd Year undergraduate student at Vellore Institute of Technology, Chennai. I am interested in full stack developement, competitive programming and Cyber Security.
-
-Most of all I ❤️ to Design things. The time I'm not coding, I'm surfing [Unsplash](https://unsplash.com/) or [Pexels](https://www.pexels.com/) for composites or Manupulating them😏.
+I am Kunal Kumar Jha and I'm a 2nd Year undergraduate student at Vellore Institute of Technology, Chennai. I am interested in full stack developement, competitive programming and Graphical Designing.
 
 ## 🤵 About Me
 
-- 🌱 I read Tech Blogs almost everyday.
-- 🤔 I code almost everyday.
+- 🌱 Learning about Blockchain, cryptocurrency.
+- 🤔 VSCode > any other editor.
 - 💬 I know Hindi and English.
 - ⚡ More than happy to discuss and work on Web Development
+- 👫 Feeling happy with TypeScript
 
 ## 🔧 Technologies.
 
@@ -22,6 +21,7 @@ Most of all I ❤️ to Design things. The time I'm not coding, I'm surfing [Uns
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=TypeScript)
 
 #### Front-End
 
@@ -41,15 +41,21 @@ Most of all I ❤️ to Design things. The time I'm not coding, I'm surfing [Uns
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r&logoColor=blue)
 
+## 👨‍💼 Reach me at
+
+- Email: kunatastic@gmail.com
+- Linkedin: https://www.linkedin.com/in/kunal-kumar-jha/
+- Instagram: https://www.instagram.com/kunatastic
+
 ## 📈 Statistics
 
 <div align="center">
   
-![counter](https://enz0y3e2nxtyn0a.m.pipedream.net)
+<!-- ![counter](https://enz0y3e2nxtyn0a.m.pipedream.net) -->
+<a href="https://github.com/kunatastic/kunatastic">
+<img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=kunatastic&theme=ayu-mirage&show_icons=true" />
+</a>
+<a href="https://github.com/kunatastic/kunatastic">
+<img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunatastic&layout=compact&theme=ayu-mirage&show_icons=true"/>
+</a>
 </div>
-<a href="https://github.com/kunatastic/kunatastic">
-<img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=kunatastic&theme=merko&show_icons=true" />
-</a>
-<a href="https://github.com/kunatastic/kunatastic">
-<img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunatastic&layout=compact&theme=merko&show_icons=true"/>
-</a>
