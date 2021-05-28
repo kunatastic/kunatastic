@@ -57,10 +57,22 @@ I am Kunal Kumar Jha and I'm a 2nd Year undergraduate student at Vellore Institu
 
 </div>
 <div align="center">
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunatastic&theme=ayu-mirage">
+<div>  
+<br>
+</div>
 <a href="https://github.com/kunatastic/kunatastic">
-<img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=kunatastic&theme=ayu-mirage&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunatastic&theme=ayu-mirage&show_icons=true" />
 </a>
 <a href="https://github.com/kunatastic/kunatastic">
-<img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunatastic&layout=compact&theme=ayu-mirage&show_icons=true"/>
+<img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunatastic&langs_count=8&layout=compact&theme=ayu-mirage&show_icons=true"/>
 </a>
+  
+<div>  
+<br>
+</div>
+  
+  
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=kunatastic&bg_color=1F2430&color=C7C8C2&line=5DA5CC&point=D2B270&area=true" display=block height=auto alt="2">
 </div>
