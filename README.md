@@ -34,3 +34,10 @@ Hello, I am Kunal Kumar Jha, also known as Kunatastic. I am currently pursing my
 [activity graph]: https://activity-graph.herokuapp.com/graph?username=kunatastic&bg_color=0e111a&color=D2B270&line=a2a7b3&point=D2B270&area=true&hide_border=true
 
 </p>
+
+
+### Constant Distro Hopper
+
+I am currently using manjaro 21.3.2 with XFCE desktop environment :heart:
+
+![image](https://user-images.githubusercontent.com/61267953/178795157-bf105af1-af76-4401-a5e1-0f7f7ed6a339.png)
