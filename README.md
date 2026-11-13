@@ -1,8 +1,5 @@
 kunal. i like ml, bad jokes and chess, usually in that order of skill, reversed.
 
-my commit graph says i took the year off.
-this one says otherwise:
-
 <a href="https://tokengazer.tokengazer-server.workers.dev/kunatastic"><img src="https://tokengazer.tokengazer-server.workers.dev/kunatastic.svg" alt="AI tokens used in Claude Code and Codex" width="900"/></a>
 
 > code is cheap. show me the prompt.
