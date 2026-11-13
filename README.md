@@ -1,47 +1,22 @@
-# Kunatastic | Kunal Kumar Jha 
+# Kunal Kumar Jha
 
-Hello, I am Kunal Kumar Jha, also known as Kunatastic. I am currently pursing my B. Tech in Computrer Science and Engineering as a final year student at Vellore Institute of Technology, Chennai. I am currently actively contributing to [coronasafe](https://github.com/coronasafe/) in building [care](https://github.com/coronasafe/care_fe/) that is an integrated tele-triage+bed allocation+patient shifting tool for implementing a decentralised Covid19 management strategy.
+Senior Software Engineer with 4+ years building consumer products and the distributed systems behind them. I lead the engineering team at [TagMango](https://tagmango.com) building [BackstagePass](https://backstagepass.com), a live platform for creators and their fans. Based in Bangalore, India.
 
-## Feel free to reach out to me at 
+[kunatastic.com](https://kunatastic.com) · [LinkedIn](https://www.linkedin.com/in/kunatastic/) · [X](https://x.com/kunatastic) · [Kaggle](https://www.kaggle.com/kunal20) · [Email](mailto:kunatastic@gmail.com) · [Resume](https://kunatastic.com/resume.pdf)
 
-<p align="center"> 
-  <a href="mailto:kunatastic@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="kunatastic"/></a>
-  <a href="https://twitter.com/kunatastic" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kunatastic" /></a>
-  <a href="https://linkedin.com/in/kunatastic" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kunatastic" /></a> 
-  <a href="https://instagram.com/kunatastic" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="kunatastic" /></a> 
+## Work
 
-</p>
+- **TagMango · BackstagePass** — Senior Software Engineer (Mar 2026 – present). Leading a 6-engineer team; scaled the notification pipeline to 3,500+ messages/sec.
+- **Metaforms** — Product Engineer (Aug 2025 – Feb 2026). Moved infrastructure to multi-region AWS on Terraform; built an AI-agent survey generator for Qualtrics that cut client setup from 16 hours to 4.
+- **Kuddle (acquired by Vetic)** — Founding Engineer (Aug 2022 – Aug 2025). Built the Next.js web platform, the Partner App and a Kafka notification engine handling 300K+ daily events.
+- **Open Healthcare Network** — Open Source Contributor (Jan – Aug 2022). Accessibility for a platform used by 300+ healthcare workers; an OCR pipeline reading ICU monitor feeds across 50+ rooms.
 
-## Statistics
+## Projects
 
-<p align="center">
-  <a href="https://tokengazer.tokengazer-server.workers.dev/kunatastic"><img src="https://tokengazer.tokengazer-server.workers.dev/kunatastic.svg" alt="AI tokens used in Claude Code and Codex" width="900"/></a>
-</p>
+- [**tokengazer**](https://github.com/kunatastic/tokengazer) — GitHub-style contribution graph for the AI tokens you burn in Claude Code and Codex.
+- [**MinuteTrail**](https://github.com/kunatastic/MinuteTrail) — Chrome extension that tracks focused browsing time, locally.
+- [**Remibo**](https://github.com/kunatastic/remibo) — Discord reminder bot wired to Google Calendar.
 
-<p align="center"> <img src="https://enz0y3e2nxtyn0a.m.pipedream.net" alt="kunatastic" /> </p>
+## AI tokens
 
-<p align="center">
-
-  ![streak status]
-  ![gh stats]
-  ![top languages]
-  ![activity graph]
-
-[streak status]: https://github-readme-streak-stats.herokuapp.com?user=kunatastic&theme=navy-gear&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0E111A&currStreakNum=D2B270&sideNums=D2B270&sideLabels=C7C8C2&currStreakLabel=C7C8C2&fire=D2B270
-
-[gh stats]: https://github-readme-stats.vercel.app/api?username=kunatastic&bg_color=0e111a,0e111a,0e111a&title_color=D2B270&text_color=C7C8C2&hide_border=true&show_icons=true&count_private=true
-
-[top languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=kunatastic&langs_count=8&hide=html,css&hide_border=true&bg_color=0e111a,0e111a,0e111a&title_color=D2B270&text_color=C7C8C2&layout=compact
-
-[flight hours]: https://github-readme-stats.vercel.app/api/wakatime?username=kunatastic&layout=compact&langs_count=20&custom_title=Flight%20hours%20spent%20in%20each%20language&hide_border=true&theme=minimal
-
-[activity graph]: https://activity-graph.herokuapp.com/graph?username=kunatastic&bg_color=0e111a&color=D2B270&line=a2a7b3&point=D2B270&area=true&hide_border=true
-
-</p>
-
-
-### Constant Distro Hopper
-
-I am currently using manjaro 21.3.2 with XFCE desktop environment :heart:
-
-![image](https://user-images.githubusercontent.com/61267953/178795157-bf105af1-af76-4401-a5e1-0f7f7ed6a339.png)
+<a href="https://tokengazer.tokengazer-server.workers.dev/kunatastic"><img src="https://tokengazer.tokengazer-server.workers.dev/kunatastic.svg" alt="AI tokens used in Claude Code and Codex" width="900"/></a>
