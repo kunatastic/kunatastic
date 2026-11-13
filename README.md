@@ -6,5 +6,5 @@ kunal. i like ml, bad jokes and chess, usually in that order of skill, reversed.
 >
 > — linus torvalds, had he started in 2026
 
-building [tokengazer](https://github.com/kunatastic/tokengazer), [minutetrail](https://github.com/kunatastic/MinuteTrail), [remibo](https://github.com/kunatastic/remibo)\
+building [tokengazer](https://github.com/kunatastic/tokengazer)\
 [kunatastic.com](https://kunatastic.com) · [x](https://x.com/kunatastic) · [linkedin](https://www.linkedin.com/in/kunatastic/) · [kaggle](https://www.kaggle.com/kunal20)
