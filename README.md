@@ -1,6 +1,6 @@
 kunal. i like ml, bad jokes and chess, usually in that order of skill, reversed.
 
-<a href="https://tokengazer.tokengazer-server.workers.dev/kunatastic"><img src="https://tokengazer.tokengazer-server.workers.dev/kunatastic.svg" alt="AI tokens used in Claude Code and Codex" width="900"/></a>
+<a href="https://tokengazer.vercel.app/kunatastic"><img src="https://tokengazer.vercel.app/kunatastic.svg" alt="AI tokens used in Claude Code and Codex" width="900"/></a>
 
 > code is cheap. show me the prompt.
 >
