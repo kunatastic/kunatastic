@@ -14,6 +14,10 @@ Hello, I am Kunal Kumar Jha, also known as Kunatastic. I am currently pursing my
 
 ## Statistics
 
+<p align="center">
+  <a href="https://tokengazer.tokengazer-server.workers.dev/kunatastic"><img src="https://tokengazer.tokengazer-server.workers.dev/kunatastic.svg" alt="AI tokens used in Claude Code and Codex" width="900"/></a>
+</p>
+
 <p align="center"> <img src="https://enz0y3e2nxtyn0a.m.pipedream.net" alt="kunatastic" /> </p>
 
 <p align="center">
